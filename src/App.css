@@ -1,0 +1,10 @@
+    .line{
+        width: 150px;
+        height: 2.5px;
+        background: #000;
+    }
+
+    .img_class {
+        width: 200px !important;
+        height: 200px;
+    }
